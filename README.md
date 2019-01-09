@@ -1,3 +1,6 @@
 # MIT-GitHub-Project
 Assignment 1 Section J
-Step 1 COMPLETE Account Opened and Project Started
+Step I COMPLETE Account Opened and Project Started
+Step II Created alter ego account
+Step III editing current project 
+Step IV save abd screen shot

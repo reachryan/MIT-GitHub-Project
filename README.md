@@ -5,4 +5,4 @@ Step II Created alter ego account
 Step III editing current project 
 Step IV save and screen shot
 
-Forking for thiurd user Lincoln/Donovan
+Forking for third user Lincoln/Donovan
